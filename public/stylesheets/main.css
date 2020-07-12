@@ -1,0 +1,20 @@
+body{
+    font-size: 14px;
+
+}
+.comments{
+    font-size: 0.8rem;
+    background-color: rgb(225, 225, 225);
+}
+h5 {
+    font-size: 0.8rem;
+    text-align: center;
+    line-height: inherit;
+}
+.eachComment:nth-of-type(even){
+    background-color: white;
+}
+
+.indexcampgrounds{
+    padding: 0;
+}
